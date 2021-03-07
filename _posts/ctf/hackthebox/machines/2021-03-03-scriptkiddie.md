@@ -1,5 +1,5 @@
 ---
-title: ScriptKiddie [HackTheBox-WriteUp]
+title: ScriptKiddie
 date: 2021-03-03 12:00:00 +0800
 categories: [HackTheBox, Machines]
 # tags: ["Hack The Box", "Write-Up", "CVE-2020-7384: Rapid7 Metasploit Framework msfvenom APK Template Command Injection", "sudo NOPASSWD"]     # TAG names should always be lowercase
